@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CqaF+hmIWvw=",
+  "success": true,
+  "projectFilePath": "/Users/macbookm2/Documents/практика/лаб4/Lab4/Task1/Task1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/macbookm2/Documents/практика/лаб4/Lab4/Task1/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}
