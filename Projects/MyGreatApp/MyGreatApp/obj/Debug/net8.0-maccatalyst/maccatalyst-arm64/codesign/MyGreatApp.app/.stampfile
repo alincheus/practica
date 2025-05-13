@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/macbookm2/Projects/MyGreatApp/MyGreatApp/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/macbookm2/Projects/MyGreatApp/MyGreatApp/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/MyGreatApp.app
